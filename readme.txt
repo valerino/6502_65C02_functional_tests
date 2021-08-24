@@ -1,3 +1,6 @@
+(NOTE/valerino: this fork just includes all compiled tests in bin_files/ and
+linux/x86 a65 binary)
+
 This is a set of functional tests for the 6502/65C02 type processors.
 
 The 6502_functional_test.a65 is an assembler sourcecode to test all valid
@@ -25,5 +28,4 @@ a CA65 compatible version in his repository.
 
 Good luck debugging your emulator, simulator, fpga core, discrete
 logic implementation or whatever you have!
-
 
